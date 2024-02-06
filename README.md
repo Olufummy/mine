@@ -1,1 +1,3 @@
 # mine
+
+pure HTML project 

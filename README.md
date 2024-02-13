@@ -1,3 +1,3 @@
 # mine
 
-pure HTML project 
+pure HTML project redefined 
